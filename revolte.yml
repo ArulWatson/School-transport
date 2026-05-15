@@ -1,7 +1,7 @@
 revolte:
   version: '1.0'
   project: School Transport UAT
-  appName: School Transport
+  appName: School Transport UAT
   config:
     codeReview:
       summarize: true
