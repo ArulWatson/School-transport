@@ -1,0 +1,14 @@
+{
+  "name": "school-transport-platform",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "cd frontend && npm run dev",
+    "build": "cd frontend && npm install && npm run build",
+    "start": "node index.js",
+    "test": "cd frontend && npm run test"
+  },
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
